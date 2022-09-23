@@ -6,9 +6,9 @@ layout: default
     <img src="https://raw.githubusercontent.com/LGala/Icaro/main/images/logo.jpg" width="35%" >
 </div>
 
-# What Icaro is
+# The Icaro philosophy
 
-Icaro is a JVM programming language born as a didactic project. It probably won't have any features that you can't find into another language.
+Icaro is a JVM programming language born as a didactic project with a great ambition in the long run: be a full JVM language (like Java/Kotlin) baked into a more pragmatic/easy ecosystem (like the one of Rust, Go, JavaScript, Python, ...) and avoid the typicals complexities of the JVM ecosystem (lot of settings into Intellij/Eclipse, complex or ugly packet managers like Maven, Gradle, ...).
 
 # What it's able to do
 
@@ -83,9 +83,3 @@ echo "print -5 * (3 + 1) / 4" | tr -d '\n' > myFirstProgram.icaro;
 ```bash
 icaro -compile-run-noclass myFirstProgram.icaro
 ```
-
-# How to contribute
-##### At the moment I'm not opened to receive contributions, but you can suggest me:
-* The simplest and fastest way to reproduce the icaro "installation and command line tool" that I created for zsh and 
-bash but for Windows (sorry, but I feel bad every time I put hands on it)  
-* How to properly test the math expressions: I manually created the test, but I'd like to find and use a faker-like library (or an automatic math expressions generator) to automatically generate thousands of math expressions in order to test how Icaro would evaluate them. 
