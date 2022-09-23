@@ -8,7 +8,7 @@ layout: default
 
 # The Icaro philosophy
 
-Icaro is a JVM programming language born as a didactic project with a great ambition in the long run: be a full JVM language (like Java/Kotlin) baked into a more pragmatic/easy ecosystem (like the one of Rust, Go, JavaScript, Python, ...) and avoid the typicals complexities of the JVM ecosystem (lot of settings into Intellij/Eclipse, complex or ugly packet managers like Maven, Gradle, ...).
+Icaro is a JVM programming language born as a didactic project with a great ambition in the long run: be a full JVM language (like Java/Kotlin) baked into a more pragmatic/easy ecosystem (Rust, Go, JavaScript, Python) and avoid the typicals complexities of the JVM ecosystem (complex setups into IDEs like Intellij/Eclipse, complex or ugly packet managers like Maven, Gradle).
 
 # What it's able to do
 
