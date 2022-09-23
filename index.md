@@ -3,10 +3,6 @@ layout: default
 ---
 
 <div align="center">
-    <h1>The Icaro Programming Language</h1>
-</div>
-
-<div align="center">
     <img src="https://raw.githubusercontent.com/LGala/Icaro/main/images/logo.jpg" width="35%" >
 </div>
 
