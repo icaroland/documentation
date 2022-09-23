@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<div style="color:black;">
-
 <div align="center">
     <img src="https://raw.githubusercontent.com/LGala/Icaro/main/images/logo.jpg" width="35%" >
 </div>
@@ -85,4 +83,3 @@ echo "print -5 * (3 + 1) / 4" | tr -d '\n' > myFirstProgram.icaro;
 ```bash
 icaro -compile-run-noclass myFirstProgram.icaro
 ```
-</div>
