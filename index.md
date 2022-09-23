@@ -7,7 +7,7 @@ layout: default
 </div>
 
 <div align="center">
-    <img src="https://github.com/LGala/Icaro/blob/main/images/logo.jpg" width="35%" >
+    <img src="https://raw.githubusercontent.com/LGala/Icaro/main/images/logo.jpg" width="35%" >
 </div>
 
 # What Icaro is
