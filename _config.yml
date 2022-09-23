@@ -1,9 +1,8 @@
 title: The Icaro programming language
 description: JVM ecosystem made simple
 buttons:
-  zip_url: https://github.com/LGala/Icaro
-  zip_title: Icaro repo
-  zip_hide: false
+  github_url: https://github.com/LGala/Icaro
+  github_title: Icaro repo
+  zip_hide: true
   tar_hide: true
-  github_hide: true
 theme: jekyll-theme-cayman
