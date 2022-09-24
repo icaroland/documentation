@@ -56,7 +56,7 @@ wget https://raw.githubusercontent.com/LGala/Icaro/0.1/installers/zshicaroinstal
 ##### Go in any directory you want, and you should be able to launch the following command now
 
 ```bash
-icaro -help
+icaro .
 ```
 
 ##### And receive something like
