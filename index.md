@@ -81,7 +81,7 @@ mkdir playWithIcaro && cd playWithIcaro && echo "print -5 * (3 + 1) / 4" | tr -d
 icaro -compile-run-noclass myFirstProgram.icaro
 ```
 
-##### And receive
+##### You should receive
 
 ```
 -5
