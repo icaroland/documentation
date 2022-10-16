@@ -12,7 +12,7 @@ Icaro is a JVM programming language born as a didactic project with a great ambi
 
 # What it's able to do
 
-At the moment is only able to:
+At the moment it's only able to:
 * assign math expressions* to variables
 * assign the value of a variable A to variable B
 * print math expressions* and variables content to the screen
@@ -43,14 +43,14 @@ print (a + b) / 60
 ##### bash users
 
 ```bash
-wget https://raw.githubusercontent.com/LGala/Icaro/0.1/installers/bashicaroinstaller.sh && bash bashicaroinstaller.sh && source ~/.bashrc; rm bashicaroinstaller.sh
+wget https://raw.githubusercontent.com/Icaro-lang/compiler/main/installers/bashicaroinstaller.sh && bash bashicaroinstaller.sh && source ~/.bashrc; rm bashicaroinstaller.sh
 ```
 
 ##### zsh users
 
 ```bash
 
-wget https://raw.githubusercontent.com/LGala/Icaro/0.1/installers/zshicaroinstaller.sh && bash zshicaroinstaller.sh && source ~/.zshrc; rm zshicaroinstaller.sh
+wget https://raw.githubusercontent.com/Icaro-lang/compiler/main/installers/zshicaroinstaller.sh && bash zshicaroinstaller.sh && source ~/.zshrc; rm zshicaroinstaller.sh
 ```
 
 ##### Go in any directory you want, and you should be able to launch the following command now
