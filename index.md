@@ -49,7 +49,6 @@ wget https://raw.githubusercontent.com/Icaro-lang/compiler/main/installers/bashi
 ##### zsh users
 
 ```bash
-
 wget https://raw.githubusercontent.com/Icaro-lang/compiler/main/installers/zshicaroinstaller.sh && bash zshicaroinstaller.sh && source ~/.zshrc; rm zshicaroinstaller.sh
 ```
 
@@ -73,13 +72,17 @@ available commands:
 ##### Create your first program
 
 ```bash
-mkdir playWithIcaro;
-cd playWithIcaro;
-echo "print -5 * (3 + 1) / 4" | tr -d '\n' > myFirstProgram.icaro;
+mkdir playWithIcaro && cd playWithIcaro && echo "print -5 * (3 + 1) / 4" | tr -d '\n' > myFirstProgram.icaro;
 ```
 
 ##### Run the program
 
 ```bash
 icaro -compile-run-noclass myFirstProgram.icaro
+```
+
+##### And receive
+
+```
+-5
 ```
