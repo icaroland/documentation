@@ -72,7 +72,7 @@ available commands:
 ##### Create your first program
 
 ```bash
-mkdir playWithIcaro && cd playWithIcaro && echo "print -5 * (3 + 1) / 4" | tr -d '\n' > myFirstProgram.icaro;
+rm -rf playWithIcaro && mkdir playWithIcaro && cd playWithIcaro && echo "print -5 * (3 + 1) / 4" | tr -d '\n' > myFirstProgram.icaro;
 ```
 
 ##### Run the program
