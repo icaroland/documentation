@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Icaro-lang/documentation/main/assets/css/img/logo.jpeg" width="35%" >
+    <img src="https://raw.githubusercontent.com/icarolang/documentation/main/assets/css/img/logo.jpeg" width="35%" >
 </div>
 
 # The Icaro philosophy
@@ -43,13 +43,13 @@ print (a + b) / 60
 ##### bash users
 
 ```bash
-wget https://raw.githubusercontent.com/Icaro-lang/compiler/main/installers/bashicaroinstaller.sh && bash bashicaroinstaller.sh && source ~/.bashrc; rm bashicaroinstaller.sh
+wget https://raw.githubusercontent.com/icarolang/compiler/main/installers/bashicaroinstaller.sh && bash bashicaroinstaller.sh && source ~/.bashrc; rm bashicaroinstaller.sh
 ```
 
 ##### zsh users
 
 ```bash
-wget https://raw.githubusercontent.com/Icaro-lang/compiler/main/installers/zshicaroinstaller.sh && bash zshicaroinstaller.sh && source ~/.zshrc; rm zshicaroinstaller.sh
+wget https://raw.githubusercontent.com/icarolang/compiler/main/installers/zshicaroinstaller.sh && bash zshicaroinstaller.sh && source ~/.zshrc; rm zshicaroinstaller.sh
 ```
 
 ##### Go in any directory you want, and you should be able to launch the following command now
