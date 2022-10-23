@@ -43,13 +43,13 @@ print (a + b) / 60
 ##### bash users
 
 ```bash
-wget https://raw.githubusercontent.com/icarolang/lang/main/installers/bashicaroinstaller.sh && bash bashicaroinstaller.sh && source ~/.bashrc; rm bashicaroinstaller.sh
+wget https://raw.githubusercontent.com/icarolang/icaro/main/installers/bashicaroinstaller.sh && bash bashicaroinstaller.sh && source ~/.bashrc; rm bashicaroinstaller.sh
 ```
 
 ##### zsh users
 
 ```bash
-wget https://raw.githubusercontent.com/icarolang/lang/main/installers/zshicaroinstaller.sh && bash zshicaroinstaller.sh && source ~/.zshrc; rm zshicaroinstaller.sh
+wget https://raw.githubusercontent.com/icarolang/icaro/main/installers/zshicaroinstaller.sh && bash zshicaroinstaller.sh && source ~/.zshrc; rm zshicaroinstaller.sh
 ```
 
 ##### Go in any directory you want, and you should be able to launch the following command now
