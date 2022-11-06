@@ -1,3 +1,10 @@
+# Cli lifecycle
+
+![picture](cli-lifecycle.excalidraw.png "Cli lifecycle")
+
+<br>
+<br>
+
 # Icaro ecosystem user POV
 
 ![picture](user_ecosystem.excalidraw.png "Icaro big picture")
